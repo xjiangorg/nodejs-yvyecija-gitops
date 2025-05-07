@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-yvyecija:31e7111cfe5cba966d0196650b38769e556638d3@sha256:0a92af9b07a28ab4d1191b85e2cd6bfc40c23ca2bb59304eb1c8fb2812e8c084
+        - image: quay.io/quay_xjiang/nodejs-yvyecija:9124478d5f77d6c8cc8e42aeb628efa64d12bada@sha256:2869b75ebb890f2097adc13405d3ecd0cb985042c2f3135c2213135e753c69a7
           name: container-image
